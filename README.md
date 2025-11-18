@@ -1,44 +1,33 @@
 Use Seus Direitos
 
-Uma plataforma voltada para facilitar a regularização do CPF de pessoas físicas, ajudando a “limpar o nome” com agilidade e segurança.
+Plataforma desenvolvida para facilitar a regularização do CPF, negociação de dívidas e limpeza de nome, oferecendo uma experiência intuitiva, rápida e segura.
+Construída com tecnologias modernas e um design consistente utilizando shadcn/ui.
 
-Visão geral
+⚙️ Tecnologias Utilizadas
+Frontend
 
-O Use. Seus Direitos é uma startup que se propõe a simplificar todo o processo de negociação de dívidas, documentação e regularização do CPF junto à Receita Federal e aos sistemas de crédito, permitindo que o usuário recupere seu poder de compra e tranquilidade financeira sem burocracia.
-No site:
+Next.js 14 (App Router)
 
-Página inicial com apresentação do serviço (“Limpe seu Nome – Regularize seu CPF de forma simples, rápida e sem burocracia”)
+React
 
-Sessão “Sobre nós”, explicando missão e funcionamento
+TypeScript
 
-Sessão de Serviços/Planos onde consta o serviço “Limpa Nome” com preço (ex: R$ 150,00)
+shadcn/ui (componentes acessíveis e estilizados)
 
-Dados de contato, CNPJ, links para redes sociais, termos e política de uso.
+TailwindCSS
 
-Funcionalidades principais
+Backend
 
-Cadastro de usuário para contratar o serviço
+Node.js
 
-Processo de negociação das dívidas e regularização do CPF (backend)
+TypeScript
 
-Plano “Limpa Nome” disponível para contratação
+Prisma ORM
 
-Transparência de preço e informações legais (CNPJ, termos de desistência e reembolso)
+Banco de Dados
 
-Design simples, objetivo, com foco em usabilidade.
+PostgreSQL
 
-Tecnologias
+Infraestrutura
 
-
-
-Frontend: Next.js/Typescript 
-
-Backend: API RESTful Node.js/Prisma
-
-Banco de dados: PostgreSQL
-
-
-Hospedagem: Vercel 
-
-Integrações: Sistema de negociação de dívidas, documentação, etc.
-
+Deploy no Vercel
