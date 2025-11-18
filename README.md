@@ -42,15 +42,3 @@ Hospedagem: Vercel
 
 Integrações: Sistema de negociação de dívidas, documentação, etc.
 
-Como instalar / rodar localmente
-
-Clone este repositório
-
-git clone https://github.com/…/useseusdireitos.git  
-cd useseusdireitos  
-
-
-Instale as dependências
-
-npm install  
-npm run dev  
